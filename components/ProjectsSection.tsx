@@ -14,14 +14,6 @@ const projects = [
     link: "https://www.growbeyond.store/",
   },
   {
-    name: "Todo List",
-    description:
-      "MERN스택으로 제작한 Todo list, 서버가 죽어있어서 살아나는데 시간이 조금 걸려요..🥲",
-    image: "/project2.png",
-    github: "https://github.com/bin8727/ToDoList--frontend",
-    link: "https://to-do-list-frontend-taupe.vercel.app/",
-  },
-  {
     name: "Crypto Tracker",
     description:
       "Coin Paprika Api를 이용해서 제작한 코인랭킹 차트",
